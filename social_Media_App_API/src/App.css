@@ -1,0 +1,48 @@
+.main_container{
+    display: flex;
+}
+.mini_container{
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    margin: 15px 20px;
+    justify-content: center; 
+    align-items: center;
+}
+.card{
+    margin-block: 35px;
+    padding-inline: 40px;
+    padding-block: 20px;
+    width: 550px;
+}
+.btn-close{
+    width: 25px;
+    font-weight: 900;
+}
+.sidebar{
+    width: 280px;
+    min-height: 680px;
+}
+
+.form{
+    width: 900px;
+    padding: 20px;
+    box-shadow: inset 5px 15px 10px 2px gray;
+}
+
+.tag{
+    margin-block: 10px;
+    margin-inline: 2px;
+}
+
+.msg{
+    font-weight: 700;
+    margin-block: 20px;
+    font-family:  sans-serif;
+}
+
+.loader{
+    width: 100px;
+    height: 100px;
+    color: rgb(241, 160, 74);
+}

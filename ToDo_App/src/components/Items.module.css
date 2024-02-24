@@ -1,0 +1,26 @@
+.container{
+    padding: 20px;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    box-shadow: inset 2px 2px 40px 10px lightblue;
+}
+.dltbtn{
+    outline: none;
+    border: none;
+    padding: 10px;
+    background-color: rgb(103, 12, 12);
+    color: white;
+    cursor: pointer;
+    border-radius: 9px;
+    font-size: 12px;
+}
+.dltbtn:hover{
+    background-color: rgb(117, 18, 18);
+}
+.todoText,.todoDate{
+    font-weight: 600;
+}

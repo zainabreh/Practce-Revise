@@ -1,0 +1,36 @@
+.list{
+    max-width: 60%;
+    width: fit-content;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-left: 10px;
+    padding: 5px;
+    color: rgb(222, 218, 218);
+    font-size: 15px;
+    cursor: pointer;
+}
+.addbtn{
+    width: 20%;
+    outline: none;
+    border: none;
+    background-color: rgb(224, 100, 100);
+    padding-block: 3.5px;
+    margin-block: 5px;
+    margin-inline: 10px;
+    padding-inline: 10px;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 15px;
+    box-shadow: inset 2px 2px 15px 1px rgb(72, 22, 22);
+}
+.addbtn:hover{
+    background-color: rgb(226, 67, 67);
+}
+.item{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
