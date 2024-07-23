@@ -1,0 +1,59 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "title": "Guiter Fundamentals",
+            "slug": "guiter-fundamentals",
+            "description": "Learn the basic of playing guitar with our comprehensive beginner's course.",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured": true,
+            "image": "/images/guitar.jpeg"
+
+        },
+        {
+            "id": 2,
+            "title": "Piano Fundamentals",
+            "slug": "piano-fundamentals",
+            "description": "Learn the basic of playing piano with our comprehensive beginner's course.",
+            "price":95.99,
+            "instructor":"Ali Doe",
+            "isFeatured": true,
+            "image": "/images/piano.png"
+
+        },
+        {
+            "id": 3,
+            "title": "Voilan Fundamentals",
+            "slug": "voilan-fundamentals",
+            "description": "Learn the basic of playing voilan with our comprehensive beginner's course.",
+            "price":85.99,
+            "instructor":"Jims kell",
+            "isFeatured": true,
+            "image": "/images/voilan.jpeg"
+
+        },
+        {
+            "id": 4,
+            "title": "Flute Fundamentals",
+            "slug": "flute-fundamentals",
+            "description": "Learn the basic of playing flute with our comprehensive beginner's course.",
+            "price":60.99,
+            "instructor":"Badshah khan",
+            "isFeatured": true,
+            "image": "/images/flute.jpeg"
+
+        },
+        {
+            "id": 5,
+            "title": "Keyboard Fundamentals",
+            "slug": "keyboard-fundamentals",
+            "description": "Learn the basic of playing keyboard with our comprehensive beginner's course.",
+            "price":79.99,
+            "instructor":"Alex",
+            "isFeatured": true,
+            "image": "/images/keyboard.jpeg"
+
+        }
+    ]
+}
